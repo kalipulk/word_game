@@ -7,10 +7,13 @@ body {
 }
 
 h1 {
-    font-size: 90px;
+    font-size: 90px; 
     color: white;
 }
 
+#computerchoice-text{
+    font-size: 60px;
+}
 button {
     color: black;
     background-color: #f1f1f2;
