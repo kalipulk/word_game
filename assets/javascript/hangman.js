@@ -52,7 +52,7 @@ $(document).ready(function() {
     
     // if/else statement to track wins & losses
 
-    //on button click, generate new word
+    //on button click, generate new word, but keep win and loss data intact 
     $("#reset").click(function() {
 
       });     
