@@ -3,7 +3,6 @@ body {
     background-image: url("food/food.png");
     font-family: 'Amatic SC', cursive;
     font-size: 30px;
-    font-weight: bold;
     text-align: center;
 }
 
@@ -13,5 +12,30 @@ h1 {
 }
 
 button {
-
+    color: black;
+    background-color: #f1f1f2;
+    border-radius: 2px;
+    border: 1px solid white;
+    font-family: 'Amatic SC', cursive;
+    font-size: 30px;
 }
+
+button:hover{
+    background-color: #20948b;
+}
+
+#letters {
+    background-color: #20948b;
+    border:  2px dotted white;
+    font-weight: bold;
+    margin: 5px 20px;
+    padding: 15px;
+}
+
+.score {
+    background-color: #de7a22;
+    border:  2px dotted white;
+    margin: 5px 20px;
+    padding: 15px;
+}
+
